@@ -5,7 +5,7 @@ AI services for scoring resumes based on comparison between JD and candidate res
 
 ## IntelligentRecruitmentHelper
 
-<img src="SystemCode/clips/static/hdb-bto.png"
+<img src="SystemCode/clips/intellient.png"
      style="float: left; margin-right: 0px;" />
 
 ---
